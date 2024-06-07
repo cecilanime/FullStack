@@ -19,6 +19,7 @@ p{
 }
 img {
     border-style: solid;
+    border: white;
     border-width: 6px;
-    
+     
 }
